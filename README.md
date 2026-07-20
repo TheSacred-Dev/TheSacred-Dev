@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Sacred Dev
 
-<!--
-**TheSacred-Dev/TheSacred-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Python Developer in training.
 
-Here are some ideas to get you started:
+I build software projects focused on:
+- Discord bots
+- Automation tools
+- Backend development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+- Python
+- discord.py
+- APIs
+- Databases
+
+## 🔨 Currently Working On
+
+- A Discord Moderation Bot
+
+## 💡 Fun Fact
+
+I love building things from scratch — from small scripts to complete software projects.
+
+## 📂 Projects
+
+Coming soon...
+
+## 📫 Contact
+
+GitHub: @TheSacred-Dev  
+Discord: @Sacred.dev
