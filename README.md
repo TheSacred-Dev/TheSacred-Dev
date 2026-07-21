@@ -30,5 +30,4 @@ Coming soon...
 
 GitHub: @TheSacred-Dev  
 Discord: @Sacred.dev
-
 Email: thesacred.dev@gmail.com
