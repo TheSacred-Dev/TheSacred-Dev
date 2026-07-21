@@ -28,6 +28,6 @@ Coming soon...
 
 ## 📫 Contact
 
-GitHub: @TheSacred-Dev  
-Discord: @Sacred.dev
-Email: thesacred.dev@gmail.com
+-GitHub: @TheSacred-Dev  
+-Discord: @Sacred.dev
+-Email: thesacred.dev@gmail.com
