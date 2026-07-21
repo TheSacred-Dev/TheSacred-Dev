@@ -29,5 +29,5 @@ Coming soon...
 ## 📫 Contact
 
 GitHub: @TheSacred-Dev  
-Discord: Sacred.dev
+Discord: @Sacred.dev
 Email: thesacred.dev@gmail.com
