@@ -79,8 +79,8 @@ I'm not trying to learn everything at once. I'm focused on building real skills,
 
 ## 🔗 Connect
 
-**GitHub:** TheSacred-Dev
-**Discord:** sacred.dev
+**GitHub:** TheSacred-Dev  
+**Discord:** sacred.dev  
 **Email:** thesacred.dev@gmail.com
 
 **Sacred Dev**
