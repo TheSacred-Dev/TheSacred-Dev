@@ -1,0 +1,13 @@
+DISCLAIMER 
+
+1. Portfolio & Educational Purpose
+The projects and code in this repository are part of a personal portfolio and are shared for demonstration and educational purposes.
+
+2. Ongoing Updates
+This repository is actively maintained and updated over time. Features, code structure, and documentation may be modified, improved, or removed at any time without prior notice.
+
+3. No Warranty or Liability
+All software and materials in this repository are provided "as is," without warranty of any kind, express or implied. In no event shall the author be held liable for any claims, damages, errors, security issues, or other liabilities arising from the use, modification, or distribution of this code. Use at your own risk.
+
+4. License
+This repository is governed by the terms of the MIT License included in the LICENSE file.
