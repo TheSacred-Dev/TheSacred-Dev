@@ -1,3 +1,5 @@
+#Sacred Dev
+
 import random
 print("\n===============Welcome to the Dice Game===============")
 # Prompt the user to enter their name.
