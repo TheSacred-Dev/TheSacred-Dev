@@ -46,5 +46,5 @@ This repository is licensed under the **MIT License** (see [LICENSE](./LICENSE))
 
 - **GitHub:** [@TheSacred-Dev](https://github.com)
 - **Email:** [thesacred.dev@gmail.com](mailto:your-email@example.com)
-- **Discord:** [@sacred.dev](https://discord.com)
+- **Discord:** [@sacred.dev](https://discord.com/users/1479955516061913159)
 
